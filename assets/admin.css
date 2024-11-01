@@ -1,0 +1,12 @@
+/* styles need to be overriden because of wp thickbox */
+
+ul.order_notes li a.delete_note {
+	color: #f00 !important
+}
+
+ul.order_notes li p.meta {
+	padding: 10px !important;
+	color: #999 !important;
+	margin: 0 !important;
+	font-size: 11px !important;
+}
